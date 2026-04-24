@@ -80,3 +80,8 @@ images”以外，其他编译目标还有：
   OpenJDK Runtime Environment (build 12-internal+0-adhoc.icyfenix.jdk12)
   OpenJDK 64-Bit Server VM (build 12-internal+0-adhoc.icyfenix.jdk12, mixed mode)
   ```
+- 编译jdk和使用clion调试jdk
+  <img width="650" height="444" alt="image" src="https://github.com/user-attachments/assets/296d89d2-b4e8-421b-acfd-c39f407c0f5b" />
+
+#### further reading
+- https://juejin.cn/post/6982024331467423774
